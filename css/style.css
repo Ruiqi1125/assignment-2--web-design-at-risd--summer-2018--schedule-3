@@ -33,6 +33,14 @@ ol{
    padding:30px;
 }
 
+footer {
+   background-color: #fce921;
+   text-align: center;
+   padding:20px;
+   margin: 40px;
+   line-height: 30px;
+}
+
 .cover-title {
    font-size:30px;
    background-color: #fce921;
