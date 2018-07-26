@@ -2,28 +2,55 @@ body {
    background-color: #F4AFB4;
    font-family: Courier, monospace;
    color: #2F4858;
+   margin:auto;
 }
 
-h1 {
+.cover-title {
    font-size:30px;
    background-color: #fce921;
-   border: solid 10px #fce921;
+
+   font-weight: 800;
+   padding:20px;
+   position: absolute;
+   top: 100px;
+   right: 55%;
 }
 
 h2 {
    font-size:20px;
+   background-color: #fce921;
+   position: absolute;
+   top:400px;
+   right:55%;
+   left:15%;
+   padding:20px;
+
+}
+
+p {
+   margin-left: 100px;
+   margin-right: 100px;
 }
 
 ol{
    list-style-type: decimal;
    list-style-position: inside;
    color: #393E41;
-}
-
-img {
-   border: solid 10px #fce921;
-}
-
-a {
+   position:absolute;
+   top:500px;
+   right:55%;
+   left:15%;
    background-color: #fce921;
+   line-height: 25px;
+   padding:30px;
+}
+
+.cover {
+   width: 98%;
+   padding:1%;
+   background-color: #fce921;
+}
+
+.artist {
+   font-weight: 800;
 }
