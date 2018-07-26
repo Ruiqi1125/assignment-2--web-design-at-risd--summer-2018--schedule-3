@@ -14,11 +14,6 @@ h2 {
    font-size:20px;
 }
 
-p{
-   font-family: Courier, monospace;
-   color: #2F4858;
-}
-
 ol{
    list-style-type: decimal;
    list-style-position: inside;
