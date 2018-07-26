@@ -1,5 +1,14 @@
+body {
+   background-color: #F7996E;
+   align-items: center;
+}
+
 h1 {
    font-family: OCR A Std, monospace;
    font-size:30px;
 
+}
+
+img {
+   align-items: center;
 }
