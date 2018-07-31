@@ -1,86 +1,83 @@
 body {
-   background-color: #F4AFB4;
-   font-family: Courier, monospace;
-   color: #2F4858;
-   margin:auto;
+  background-color: #F4AFB4;
+  font-family: Courier, monospace;
+  color: #2F4858;
+  margin: auto;
 }
 
 h2 {
-   font-size:20px;
-   background-color: #fce921;
-   position: absolute;
-   top:400px;
-   right:55%;
-   left:15%;
-   padding:20px;
-
+  font-size: 20px;
+  background-color: #fce921;
+  position: absolute;
+  top: 400px;
+  right: 55%;
+  left: 15%;
+  padding: 20px;
 }
 
 p {
-   text-indent:50px;
+  text-indent: 50px;
 }
 
-ol{
-   list-style-type: decimal;
-   list-style-position: inside;
-   color: #393E41;
-   position:absolute;
-   top:500px;
-   right:55%;
-   left:15%;
-   background-color: #fce921;
-   line-height: 25px;
-   padding:30px;
+ol {
+  list-style-type: decimal;
+  list-style-position: inside;
+  color: #393E41;
+  position: absolute;
+  top: 500px;
+  right: 55%;
+  left: 15%;
+  background-color: #fce921;
+  line-height: 25px;
+  padding: 30px;
 }
 
 footer {
-   background-color: #fce921;
-   text-align: center;
-   padding:40px;
-   margin: 40px;
-   line-height: 30px;
+  background-color: #fce921;
+  text-align: center;
+  padding: 40px;
+  margin: 40px;
+  line-height: 30px;
 }
 
 .cover-title {
-   font-size:30px;
-   background-color: #fce921;
-
-   font-weight: 800;
-   padding:20px;
-   position: absolute;
-   top: 100px;
-   right: 55%;
+  font-size: 30px;
+  background-color: #fce921;
+  font-weight: 800;
+  padding: 20px;
+  position: absolute;
+  top: 100px;
+  right: 55%;
 }
 
 .cover {
-   width: 98%;
-   padding:1%;
-   background-color: #fce921;
+  width: 98%;
+  padding: 1%;
+  background-color: #fce921;
 }
 
 .artist {
-   font-weight: 800;
-   font-size: 20px;
+  font-weight: 800;
+  font-size: 20px;
 }
 
 .text {
-   margin-top: 100px;
-   margin-left: 50%;
-   margin-right:5%;
-   padding-right: 20px;
-   border-right: solid 10px #fce921;
+  margin-top: 100px;
+  margin-left: 50%;
+  margin-right: 5%;
+  padding-right: 20px;
+  border-right: solid 10px #fce921;
 }
 
 .image-multi {
-
-   position:absolute;
-   top:1000px;
-   right:55%;
-   left:15%;
+  position: absolute;
+  top: 1000px;
+  right: 55%;
+  left: 15%;
 }
 
 .image-size {
-   width:100%;
-   margin-top: 150px;
-   border-right: solid 10px #fce921;
+  width: 100%;
+  margin-top: 150px;
+  border-right: solid 10px #fce921;
 }
